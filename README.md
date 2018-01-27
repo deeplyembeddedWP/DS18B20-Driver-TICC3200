@@ -7,7 +7,7 @@ Author:Vinay Divakar
 
 Website:www.deeplyembedded.org
 
-Blog Post:https://deeplyembedded.org/a-ds18b20-driver-ticc3200/
+Blog Post:https://deeplyembedded.org/ds18b20-driver-ticc3200/
 
 Youtube:https://youtu.be/v1qAfZjl-hI
 
