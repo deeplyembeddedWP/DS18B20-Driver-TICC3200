@@ -227,8 +227,8 @@ void vTestTask( void *pvParameters )
             /* One sec delay */
             MAP_UtilsDelay(13000000);
         }
-#endif
     }
+#endif
 }
 
 
